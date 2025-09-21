@@ -1,0 +1,11 @@
+<plugins>
+  <plugin id="com.sydney.fantadarkii"
+          url="https://raw.githubusercontent.com/sydneychambers/fanta-theme-ii/master/fanta-dark-ii-final-theme.zip"
+          version="1.0.0">
+    <name>Fanta Dark II</name>
+    <description><![CDATA[
+      Dark citrus-inspired theme for IntelliJ IDEs.
+    ]]></description>
+    <vendor email="chamberssydney09@gmail.com" url="https://github.com/sydneychambers">Sydney Chambers</vendor>
+  </plugin>
+</plugins>
