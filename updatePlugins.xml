@@ -1,11 +1,11 @@
 <plugins>
-  <plugin id="com.sydney.fantadarkii"
+  <plugin id="fanta-theme-ii"
           url="https://raw.githubusercontent.com/sydneychambers/fanta-theme-ii/master/fanta-dark-ii-final-theme.zip"
-          version="1.0.0">
-    <name>Fanta Dark II</name>
+          version="1.0.3">
+    <name>Fanta II</name>
     <description><![CDATA[
-      Dark citrus-inspired theme for IntelliJ IDEs.
+      A beautiful black theme, fine tuned based on the official Idea theme, with a unified interface colour.
     ]]></description>
-    <vendor email="chamberssydney09@gmail.com" url="https://github.com/sydneychambers">Sydney Chambers</vendor>
+    <vendor email="1311198116.com" url="https://gitee.com/jiangzml/fanta-theme">JiangZML</vendor>
   </plugin>
 </plugins>
